@@ -4,7 +4,7 @@
 If there is no ssh key: Add -k option
 If you need a password for root authority: Add -bK option
 
-Variables are included in "{{ }}".
+Variables are included in "{{ foo }}".
 
 If you don't have ssh key and need root authority?
 following this command,
